@@ -8,6 +8,10 @@ on:
     types: [opened, synchronize, reopened]
     paths:
       - '**.py'
+      - '**.yml'
+      - '**.yaml'
+      - '**.html'
+      - '/*'
       - '**.md'
       - '**.ts'
       - '**.tsx'
