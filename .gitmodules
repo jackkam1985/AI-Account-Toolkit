@@ -1,9 +1,28 @@
-[submodule "any-auto-register"]
-	path = any-auto-register
-	url = https://github.com/lxf746/any-auto-register.git
-[submodule "cloudflare_temp_email"]
-	path = cloudflare_temp_email
-	url = https://github.com/dreamhunter2333/cloudflare_temp_email.git
-[submodule "ABCard"]
-	path = ABCard
+[submodule "packages/openai/ABCard"]
+	path = packages/openai/ABCard
 	url = https://github.com/kaima2022/ABCard.git
+[submodule "packages/general/any-auto-register"]
+	path = packages/general/any-auto-register
+	url = https://github.com/lxf746/any-auto-register.git
+[submodule "packages/email/cloudflare_temp_email"]
+	path = packages/email/cloudflare_temp_email
+	url = https://github.com/dreamhunter2333/cloudflare_temp_email.git
+
+[submodule "packages/openai/chatgpt-creator"]
+	path = packages/openai/chatgpt-creator
+	url = https://github.com/verssache/chatgpt-creator.git
+[submodule "packages/gemini/gemini-balance-do"]
+	path = packages/gemini/gemini-balance-do
+	url = https://github.com/zaunist/gemini-balance-do.git
+[submodule "packages/codex/codex-lb"]
+	path = packages/codex/codex-lb
+	url = https://github.com/Soju06/codex-lb.git
+[submodule "packages/openai/openai-oauth"]
+	path = packages/openai/openai-oauth
+	url = https://github.com/EvanZhouDev/openai-oauth.git
+[submodule "packages/claude/claude-key-switch"]
+	path = packages/claude/claude-key-switch
+	url = https://github.com/sepmein/claude-key-switch.git
+[submodule "packages/general/Ultimate-openai-gemini-claude-api-key-scraper"]
+	path = packages/general/Ultimate-openai-gemini-claude-api-key-scraper
+	url = https://github.com/shjee-afridi/Ultimate-openai-gemini-claude-api-key-scraper.git
